@@ -1,0 +1,8 @@
+Calculate a running sum
+a=0
+for a>0:
+a=input(int())
+b=+a
+else:
+print(b)
+

@@ -1,0 +1,9 @@
+Reads in three numbers and writes them all in sorted order
+
+x=input(int(a,b,c))
+d=[SELECT MAX(X)]
+e=[SELECT MIN(X)]
+f=[SELECT NOT MAX AND NOT MIN]
+
+g=(d,e,f)
+PRINT(g)
